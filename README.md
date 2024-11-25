@@ -13,12 +13,12 @@ ve böylece veri tabanı işlemleri daha güvenli ve okunabilir hale gelir.  <br
 - Bu modeller veri tabanına kolayca dönüştürülebilir.  
 - Güçlü ve esnek bir altyapı ile modern veri tabanı yönetimi sağlanır.  <br>
 
---- <br><br>
+--- <br>
 
 ## 🎯 Bu Ders Boyunca Neler Yapıldı?  
 
 - 🔍 **LINQ Sorguları** kullanılarak veriye erişim sağlandı.  
 - 🛠️ **DbFirst yaklaşımı** ile veri tabanı modelleri oluşturuldu.  
-- 🚀 **Entity Framework metotları** ile verimli veri tabanı yönetim teknikleri gösterildi. 
+- 🚀 **Entity Framework metotları** ile verimli veri tabanı yönetim teknikleri gösterildi. <br><br>
 ![Screenshot_1](https://github.com/user-attachments/assets/1aba81d5-9bb4-43b0-a62c-d9500c8088e4)
 
