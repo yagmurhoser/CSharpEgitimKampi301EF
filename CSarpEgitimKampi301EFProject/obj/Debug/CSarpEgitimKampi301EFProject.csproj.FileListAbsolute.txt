@@ -1,0 +1,17 @@
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\bin\Debug\CSarpEgitimKampi301EFProject.exe.config
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\bin\Debug\CSarpEgitimKampi301EFProject.exe
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\bin\Debug\CSarpEgitimKampi301EFProject.pdb
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\bin\Debug\EntityFramework.dll
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\bin\Debug\EntityFramework.xml
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.csproj.AssemblyReference.cache
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.Form1.resources
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.Properties.Resources.resources
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.csproj.GenerateResource.cache
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.csproj.CoreCompileInputs.cache
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgi.A92B282C.Up2Date
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.exe
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.pdb
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.FrmLocation.resources
+C:\Users\yagmu\source\repos\CSarpEgitimKampi301\CSarpEgitimKampi301EFProject\obj\Debug\CSarpEgitimKampi301EFProject.FrmStatistics.resources
